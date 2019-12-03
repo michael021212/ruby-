@@ -1,9 +1,9 @@
-apple = "秋田"
+i = 0
+while i <= 10 do
+if i > 5
+	break
+end
 
-if apple == "Nagano"
-	puts "長野です"
-elsif apple == "Yamagata"
-	puts "山形です"
-else
-	puts "どちらでもない"
+puts i
+i += 1
 end
