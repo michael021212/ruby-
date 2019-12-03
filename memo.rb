@@ -1,5 +1,2 @@
-Pi = 3.14
-puts Pi
-
-Pi = 100
-puts Pi
+names = [:Perl, "Ruby", "Python", "Swift"]
+puts names[0] + "あ"
